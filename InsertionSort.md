@@ -12,7 +12,7 @@ Başlangıç: [22,27,16,2,18,6]
 
 # Big-O gösterimini yazınız.
 ### Big-O gösterimini yazınız.
-Big-O (n²)
+Big-O (n²)    n! =n*(n+1)/2 = (n^2+n)/2 = O(n^2)
 
 # Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 
